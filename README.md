@@ -18,7 +18,8 @@ A sample request looks like
 		"PublicKey": "ssh-rsa ..."
 	}
 	 
-![Submit a request](https://drive.google.com/file/d/1vJrluff0mPz7XB7ZTZUJ7Gzj32DxiZzg/view?usp=sharing)
+![Submit-Request](https://github.com/Jay179-sudo/Infra-Provisioner/assets/70968485/e4613edb-2182-483d-8ea3-efa2b7ba0faf)
+
    
 The email will be validated. Only requests from the 'iiitm.ac.in' domain will be allowed access to the resources.
 
@@ -43,7 +44,8 @@ A sample request will look like
 
 We can log into the system that has been provisioned for us by using ssh. Instructions will be sent via email.
 
-![SSH-Login-Example](https://drive.google.com/file/d/1J0-tds7jJievAgvUdzxEzXLn5aHSs3ek/view?usp=sharing)
+![SSH-Login-Example](https://github.com/Jay179-sudo/Infra-Provisioner/assets/70968485/beb9edcd-0ee3-47dc-899a-19a568731b74)
+
 ### [Infra-Manifests](https://github.com/Jay179-sudo/Infra-Manifests)
 
 
@@ -58,10 +60,11 @@ Monitoring has been provided with Prometheus and visualization has been provided
 Traefik has been used as an Ingress Controller. 
 The dashboard can be seen here
 
-![Dashboard-1](https://drive.google.com/file/d/19lYGLH8KrbEkCZjTfZfapcoy877WaPIq/view?usp=sharing)
+![Dashboard-1](https://github.com/Jay179-sudo/Infra-Provisioner/assets/70968485/1ff84d1c-752d-47ec-ba53-21df36f11a43)
 
-![Dashboard-2](https://drive.google.com/file/d/1zC7_lWX1qK9BsMMl_h6Dv5LXnrHfCOo1/view?usp=sharing)
+![Dashboard-2](https://github.com/Jay179-sudo/Infra-Provisioner/assets/70968485/5d8b9d2a-8fec-479e-a19a-ff9cfd295f76)
 
-![Dashboard-3](https://drive.google.com/file/d/1svzpBuxZ9bKlu6kvNeX8OQLSBxW6welj/view?usp=sharing)
+![Dashboard-3](https://github.com/Jay179-sudo/Infra-Provisioner/assets/70968485/b19b9ac8-8226-4648-928d-c7f0155c8bd3)
+
 
 
